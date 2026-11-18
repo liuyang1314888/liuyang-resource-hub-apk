@@ -1,0 +1,4 @@
+package: liuyang.resourcehub
+version:
+  name: 1.0.0
+  code: 1
